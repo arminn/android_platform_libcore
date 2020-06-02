@@ -20,6 +20,8 @@
  */
 
 #include <nativehelper/JNIHelp.h>
+#include <nativehelper/JNIPlatformHelp.h>
+#include <nativehelper/ScopedLocalRef.h>
 
 #include "JniConstants.h"
 
