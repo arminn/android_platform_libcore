@@ -25,7 +25,6 @@
 
 #include "JniConstants.h"
 #include "JniException.h"
-#include "unicode/strenum.h"
 #include "unicode/ustring.h"
 #include "unicode/uloc.h"
 
